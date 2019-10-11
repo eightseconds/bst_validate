@@ -1,0 +1,3 @@
+function validateBst(tree) {
+    
+}
